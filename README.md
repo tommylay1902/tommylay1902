@@ -2,7 +2,7 @@
 <h3 align="center">Main Interests In Web Technologies</h3>
 
 <p align="center">
-    <img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=tommylay1902&theme=blue-green"/> 
+    <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=tommylay1902&theme=highcontrast&currStreakNum=FFDD00&background=152238&border=DD2727&stroke=DD2727&ring=FFDD00&fire=DD2727&sideNums=FFDD00&currStreakLabel=FFDD00&sideLabels=FFDD00&dates=DD2727"/> 
 </p>
 
 <h1>Connect With Me!</h1>

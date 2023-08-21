@@ -1,4 +1,4 @@
-<h1 align="center">Current Student Studying Computer Science At CSULA</h1> 
+<h1 align="center">Software Developer</h1> 
 <h3 align="center">Main Interests In Web Technologies</h3>
 
 <p align="center">

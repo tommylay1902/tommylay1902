@@ -40,9 +40,6 @@
     <a href="https://nodejs.org/en/docs/" target="_blank">
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">
-        <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    </a>
     <a href="https://dev.mysql.com/doc/" target="_blank"> 
         <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>

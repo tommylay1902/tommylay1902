@@ -2,7 +2,16 @@
 <h3 align="center">Main Interests In Web Technologies</h3>
 
 <p align="center">
-    <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=tommylay1902&theme=highcontrast&currStreakNum=FFDD00&background=152238&border=DD2727&stroke=DD2727&ring=FFDD00&fire=DD2727&sideNums=FFDD00&currStreakLabel=FFDD00&sideLabels=FFDD00&dates=DD2727"/> 
+    <span width="600px">
+            <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=tommylay1902&theme=highcontrast&currStreakNum=FFDD00&border=DD2727&stroke=DD2727&ring=FFDD00&fire=DD2727&sideNums=FFDD00&currStreakLabel=FFDD00&sideLabels=FFDD00&dates=DD2727"/> 
+    </span>
+   
+</p>
+
+<p align="center">
+    <span width="600px">
+         <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommylay1902&layout=compact&theme=highcontrast&background=152238"/>
+    </span>
 </p>
 
 <h1>Connect With Me!</h1>
@@ -53,3 +62,10 @@
   
 
 </span>
+
+
+<h1>Top Languages</h1>
+<p align="center">
+   
+</p>
+

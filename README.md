@@ -1,6 +1,6 @@
 <h1 align="center">Click on my laptop to see what I'm currently working on!</h1>
 <p align="center">
-    <a href="https://github.com/Pomotracker/pomotracker">
+    <a href="https://github.com/tommylay1902/mtg">
         <img src="https://github.com/tommylay1902/githubStatus/blob/main/status-active.svg" width="600px"/>
     </a>
 </p>

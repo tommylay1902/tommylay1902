@@ -9,18 +9,17 @@
 <h1 align="center">Software Developer</h1> 
 <h3 align="center">Main Interests In Web Technologies</h3>
 
-<p align="center">
-    <span width="600px">
-            <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=tommylay1902&theme=highcontrast&currStreakNum=FFDD00&border=DD2727&stroke=DD2727&ring=FFDD00&fire=DD2727&sideNums=FFDD00&currStreakLabel=FFDD00&sideLabels=FFDD00&dates=DD2727"/> 
-    </span>
-   
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommylay1902&layout=compact&theme=react" alt="tommylay1902 github readme top-langs" width="39%" />
+</div>
 
-<p align="center">
-    <span width="600px">
-         <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommylay1902&layout=compact&theme=highcontrast&background=152238"/>
-    </span>
-</p>
+<span height=50 width=150></span>
+<div align="center">
+    <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=tommylay1902&theme=merko" alt="tommylay1902 github readme activity graph" width="70%" />
+</div>
+
+   
+
 
 <h1>Connect With Me!</h1>
 <a href="https://www.linkedin.com/in/tommy-lay-8b8b661b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>

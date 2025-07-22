@@ -1,4 +1,6 @@
-<h1 align="center">Click on my laptop to see what I'm currently working on!</h1>
+<div align="center"><h1>Take a look at my learning journey</h1>https://learning-log-mu.vercel.app/</div>
+
+<h1 align="center">Click on my laptop to see what project I'm currently working on!</h1>
 <p align="center">
     <a href="https://github.com/tommylay1902/mtg">
         <img src="https://github.com/tommylay1902/githubStatus/blob/main/status-active.svg" width="600px"/>

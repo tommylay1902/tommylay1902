@@ -11,9 +11,9 @@
 <h1 align="center">Software Developer</h1> 
 <h3 align="center">Main Interests In Web Technologies</h3>
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommylay1902&layout=compact&theme=react" alt="tommylay1902 github readme top-langs" width="39%" />
-</div>
+</div> -->
 
 <span height=50 width=150></span>
 <div align="center">

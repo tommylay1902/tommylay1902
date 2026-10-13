@@ -16,9 +16,9 @@
 </div> -->
 
 <span height=50 width=150></span>
-<div align="center">
+<!-- <div align="center">
     <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=tommylay1902&theme=merko" alt="tommylay1902 github readme activity graph" width="70%" />
-</div>
+</div> -->
 
    
 
